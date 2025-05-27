@@ -1,0 +1,44 @@
+.hero-intro {
+  animation: intro-zoom 3s ease-in-out 1;
+}
+
+@keyframes intro-zoom {
+  0% {
+    transform: scale(0.1);
+  }
+  50% {
+    transform: scale(0.5) rotate(360deg);
+  }
+  100% {
+    transform: scale(1) rotate(360deg);
+  }
+}
+.custom-header {
+  background: radial-gradient(circle, rgb(168, 20, 20), blue);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.zoom-welcome {
+  animation: welcome-zoom 2s ease-in-out 2;
+}
+.zoom-name {
+  animation: welcome-zoom 5s ease-in-out 1;
+}
+.zoom-about,
+.zoom-projects,
+.zoom-contact {
+  animation: welcome-zoom 3s ease-in-out 1;
+}
+
+@keyframes welcome-zoom {
+  0% {
+    transform: scale(0.1);
+  }
+  /* 50% {
+    transform: scale(0.5);
+  } */
+  100% {
+    transform: scale(1);
+  }
+}
