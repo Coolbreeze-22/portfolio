@@ -67,7 +67,7 @@ const Contact = () => {
           <FaWhatsapp size={25} className="text-green-600 mx-auto mb-3" />
           <p>Whatsapp</p>
           <p className="font-san">Chat for business</p>
-          <a href="mailto:agboking8@gmail.com" target="_blank" className="bg-[#490033] flex justify-center items-center mt-5 mx-auto text-white border-3 border-double border-white w-30 md:w-full h-8 text-[13px] md:text-[16px] rounded-[5px] hover:bg-white hover:text-black hover:border-[#490033] transition duration-800 ease-in-out">Send a message</a>
+          <a href="https://wa.me/+2349036429879" target="_blank" className="bg-[#490033] flex justify-center items-center mt-5 mx-auto text-white border-3 border-double border-white w-30 md:w-full h-8 text-[13px] md:text-[16px] rounded-[5px] hover:bg-white hover:text-black hover:border-[#490033] transition duration-800 ease-in-out">Send a message</a>
         </section>
 
         <form

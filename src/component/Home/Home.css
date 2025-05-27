@@ -28,7 +28,7 @@
 .zoom-about,
 .zoom-projects,
 .zoom-contact {
-  animation: welcome-zoom 3s ease-in-out 1;
+  animation: welcome-zoom 2s ease-in-out 1;
 }
 
 @keyframes welcome-zoom {
