@@ -27,7 +27,7 @@ const Projects = () => {
           </p>
           <section className="absolute bottom-0 left-0 w-[100%] flex flex-row gap-10 md:gap-20 justify-center my-8">
             <a
-              href="https://postinu.vercel.app/"
+              href="https://inupost.vercel.app/"
               target="_blank"
               className="bg-[#490033] flex justify-center items-center text-white border-3 border-double border-white w-30 h-8 text-[13px] md:text-[16px] rounded-[5px] hover:bg-white hover:text-black hover:border-[#490033] transition duration-800 ease-in-out"
             >

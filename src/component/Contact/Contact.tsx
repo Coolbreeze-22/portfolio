@@ -110,7 +110,7 @@ const Contact = () => {
       </div>
       <section className="flex flex-row gap-10 justify-center mt-20">
         <a
-          href="https://www.linkedin.com/in/kingsley-agbo-35881b30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          href="https://www.linkedin.com/in/kingsley-agbo-35881b30b"
           target="_blank"
           className="border-3 border-double border-[#dad9d9] dark:border-[#1f2937] p-2 lg:p-3 rounded-[4px]"
         >
